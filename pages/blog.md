@@ -11,4 +11,3 @@ content:
     url_taxonomy_filters: true
 media_order: quentin-bonnet-workspace-blue.jpg
 ---
-
