@@ -53,7 +53,7 @@ Windows? Never again, I told myself (for reasons that are not purely related to 
 
 But then, after several years, my MacBook started to show signs of fatigue. And when came the time to pick its successor, my Apple hatred came back to me: I decided that if I could obtain the same ergonomics from my next machine, without having to settle for a closed and overpriced environment, then I would do it.
 
-There started my research for my new work setup. I naturally opted for a Linux distribution I knew: Ubuntu, which comes with GNOME as its default DE (Desktop Environment). After some tweaking and quite some time searching the docs, I concluded that the MacOS experience regarding workspaces and full screen apps couldn't be fully reproduced, especially in a multi screen setup. And I'm glad it didn't work, or I might have settled for something way less good.
+There started the research for my new work setup. I naturally opted for a Linux distribution I knew: Ubuntu, which comes with GNOME as its default DE (Desktop Environment). After some tweaking and quite some time searching the docs, I concluded that the MacOS experience regarding workspaces and full screen apps couldn't be fully reproduced, especially in a multi screen setup. And I'm glad it didn't work, or I might have settled for something way less good.
 
 ## Finally: i3
 
@@ -63,7 +63,7 @@ Let's start with the basics: i3 is not a DE (Desktop Environment), it's a WM (Wi
 
 So, why customize the WM? Because i3 is a *tiling* WM: instead of opening windows that are either full screen or floating (= free to be moved around with your mouse), it will by default open windows as tiles. And tiles will be organized on screen in patterns that you can customize. It doesn't sound like a big difference, but believe me, it makes all the difference in the world. 
 
-In the recent versions of Windows, you can move your windows to automatically take i.e. half the screen vertically, and you have a couple more options like this. Imagine a system like that, but way more practical and extensible. 
+In the recent versions of Windows, you can move your windows to automatically take i.e. half the screen vertically, or in a couple more preset ways. Now imagine a system built around layouts like these, but way more practical and extensible. 
 
 By default, when you open one window, it will take all space available:
 ![What happens when you open one window by default: it takes all the space](./first-window.jpg)
@@ -99,7 +99,7 @@ I will open each new window in a specific workspace depending on its purpose. He
 - Secondary screen: by default this will be web browser windows, for anything that's helpful as a side view (typically: documentation). Anything that is helpful to see simultaneously to my main activity will be sent there with a single key stroke
 - Laptop screen: messenger apps (Slack, Discord, Teams...). It's always opened in the corner of my eyes, which makes me extremely reactive.
 
-I can navigate the whole OS with only the keyboard, using only the mouse for GUIs that require it (typically the web browser). Here are my most useful keymaps:
+I can navigate the entire OS just with the keyboard, using the mouse only for GUIs that require it (typically the web browser). Here are my most useful keymaps:
 - cmd+h/l: move to left/right screen
 - cmd+j/k: move to above/below window in the current stack 
 - cmd+ctrl+h/l: move to workspace on the left/right
@@ -118,7 +118,7 @@ Here's an example flow:
 - cmd+k: go to the app above in the stack (the project previously opened)
 - cmd+h: go to the screen on the left to reply to a Slack message
 
-Many apps will offer a few keybinds that will make the mouse unnecessary in 90% cases. When everything is configured, it literally feels like there's almost no frontier between your thoughts and your OS. Trust me, that's such a great feeling. Once you've experienced it, there's no coming back.
+Many apps will offer a few keybinds that will make the mouse unnecessary in 90% use cases. When everything is configured, it literally feels like there's almost no frontier between your thoughts and your OS. Trust me, that's such a great feeling. Once you've experienced it, there's no coming back.
 
 ### Should you switch right now?
 
@@ -145,4 +145,4 @@ Knock yourself out!
 
 ### But... i3 or another tiling WM?
 
-There are many other choices out there. To each their own. To me i3 seemed very good in terms of how the configuration worked, and how popular it is (for open source projects it's a very important metric, in my opinion). Popular alternatives are bspwm and sway, the latter basically being i3 remade on Wayland. If you ask me, x11 is there to stay for many years, but if you wanna try Wayland or are using it already, it would be an obvious candidate.
+There are many other choices out there. To each their own. To me i3 seemed very good in terms of how the configuration worked, and how popular it is (for open source projects it's a very important metric, in my opinion). Popular alternatives are bspwm and Sway, the latter basically being i3 remade on Wayland. If you ask me, X11 is there to stay for many years, but if you wanna try Wayland or are using it already, it would be an obvious candidate.

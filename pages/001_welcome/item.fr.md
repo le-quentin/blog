@@ -27,7 +27,7 @@ Les articles seront systématiquement rédigés en anglais, et ils seront égale
 
 J'estime que tout ce qui touche à l'IT a vocation à être partagé en anglais pour pouvoir toucher le plus grand nombre. Pour les cas où je souhaite également m'exprimer dans ma langue maternelle, je le ferai en écrivant moi-même directement en français, et non via des traductions automatiques que je trouve bien trop souvent approximatives, aux tournures non naturelles, et qui constituent selon moi un non respect du lecteur.
 
-!!! Il n'y a pas (encore ?) de section commentaires sur ce blog. Mais si vous souhaitez réagir à de mes billets, ou que vous voulez simplement me contacter, vous pouvez le faire via [LinkedIn](https://www.linkedin.com/in/quentin-bonnet-1235a8b8/) ou [email](mailto:quentin@bonnet.software)
+!!! Il n'y a pas (encore ?) de section commentaires sur ce blog. Mais si vous souhaitez réagir à un de mes billets, ou que vous voulez simplement me contacter, vous pouvez le faire via [LinkedIn](https://www.linkedin.com/in/quentin-bonnet-1235a8b8/) ou [email](mailto:quentin@bonnet.software)
 
 ### Stack technique
 
