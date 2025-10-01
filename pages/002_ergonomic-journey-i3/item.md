@@ -14,7 +14,6 @@ taxonomy:
         - i3
         - linux
         - tools
-        - 
 published: true
 ---
 
