@@ -65,15 +65,19 @@ So, why customize the WM? Because i3 is a *tiling* WM: instead of opening window
 In the recent versions of Windows, you can move your windows to automatically take i.e. half the screen vertically, or in a couple more preset ways. Now imagine a system built around layouts like these, but way more practical and extensible. 
 
 By default, when you open one window, it will take all space available:
+
 ![What happens when you open one window by default: it takes all the space](./first-window.jpg)
 
 Then, if you open another one, it will split the space (vertically by default) and show both windows side to side:
+
 ![What happens when you open a second window by default: it splits vertically](./second-window.jpg)
 
 That's cool, but here's the kicker: there's another layout available, the stacking layout. Here's the same windows, shown in this stacking layout:
+
 ![The amazing stacking layout](./stacking-layout.jpg)
 
 Now, these are not the complete picture. These show only one workspace. You can create as many workspace as you want, swap between them, and windows will always be created in your current workspace. Here's the complete screen, with the workspaces showing at the top left hand corner:
+
 ![Combining stacked windows and workspaces](./workspaces.jpg)
 
 And with just these two combined features, workspaces and stacking layout, you can achieve perfect window management! How? Well, because now you can organize your windows in the most natural, comfortable way for our human brains: as a *hierarchy*. 
