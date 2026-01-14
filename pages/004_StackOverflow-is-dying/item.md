@@ -17,6 +17,8 @@ published: true
 
 If I am pretty certain AI will not replace developers, not any more than Stack Overflow ever did... it seems that AI is replacing Stack Overflow itself. It is a dramatic fact for developers, and even for AI itself. Let me explain.
 
+=== 
+
 ## Why it was so great
 
 First, let's briefly go back to what Stack Overflow *was*, and why it was such a great thing.
