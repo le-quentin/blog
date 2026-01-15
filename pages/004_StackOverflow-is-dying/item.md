@@ -1,6 +1,6 @@
 ---
 title: "Stack Overflow is dying"
-date: 12:00 01/08/2026
+date: 12:00 01/14/2026
 
 hero_classes: text-dark title-h1h2 overlay-dark hero-large
 hero_image: banner.png
@@ -17,7 +17,7 @@ published: true
 
 If I am pretty certain AI will not replace developers, not any more than Stack Overflow ever did... it seems that AI is replacing Stack Overflow itself. It is a dramatic fact for developers, and even for AI itself. Let me explain.
 
-=== 
+===
 
 ## Why it was so great
 
@@ -38,7 +38,11 @@ It worked so well that the concept was extended to other areas of IT, then to th
 
 ## Why it is dying
 
-Actually, we might as well call it dead already: as you can see in the banner of this article (showing the number of questions posted on Stack Overflow over time), the website is back to a level of traffic it hadn't seen since... its first month. "Oof", as I might have just heard you say.
+Actually, we might as well call it dead already.
+
+![Stack Overflow number of questions over time](./stack-overflow-usage.jpg)
+
+As you can see in this graph showing the number of questions posted on Stack Overflow over time, the website is back to a level of traffic it hadn't seen since... its first month. "Oof", as I might have just heard you say.
 
 So, how can such a fine system die completely, just like that?
 
@@ -79,7 +83,8 @@ LLMs are good and useful *because they have been trained on human-produced conte
 So, knowing all this, what should we do? 
 
 It's actually pretty simple:
-1- Hone your skills. Use LLMs as a productivity enhancer, never as a knowledge crutch. See it as another tool in your belt, next to Google and coding aids offered by your IDE.
-2- When using LLMs, if there's any kind of serious stakes, *always check the answer*. You'll be surprised how often the LLM will basically reply "oops!" when you simply ask it to source or back up its claims.
+
+1. Hone your skills. Use LLMs as a productivity enhancer, never as a knowledge crutch. See it as another tool in your belt, next to Google and coding aids offered by your IDE.
+2. When using LLMs, if there's any kind of serious stakes, *always check the answer*. You'll be surprised how often the LLM will basically reply "oops!" when you simply ask it to source or back up its claims.
 
 And even more importantly, rejoice! These tools make it increasingly easy to automate the tedious, least interesting parts of our jobs; and as more and more people demonstrate their urge to unplug their brain as soon as possible, you will find it increasingly easy to stay relevant, by the sheer fact of using your mind and applying judgement. It's a great time to be alive, and to stay human.
